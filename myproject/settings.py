@@ -85,4 +85,4 @@ STATIC_URL = '/static/'
 
 TEMPLATE_DIRS = ('templates','templates/registration' )
 
-LOGIN_REDIRECT_URL = ('/cm')
+LOGIN_REDIRECT_URL = ('/annotated')
